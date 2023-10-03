@@ -23,9 +23,7 @@
 | ETAPA | ATIVIDADE |
 | :---: | --------- |
 | ETAPA 1 | Definição dos problemas e formação das equipes |
-| ETAPA 2 | <a href = "docs/Documentação de Contexto.md"> Documentação de Contexto </a> <br> 
-            <a href = "docs/Especificação do Projeto.md"> Especificação do Projeto </a> <br> 
-            <a href = "docs/Referências.md"> Referências Bibliográficas </a> |
+| ETAPA 2 | <a href = "docs/Documentação de Contexto.md"> Documentação de Contexto </a> <br> <a href = "docs/Especificação do Projeto.md"> Especificação do Projeto </a> <br> <a href = "docs/Referências.md"> Referências Bibliográficas </a> |
 | ETAPA 3 | <a href = "docs/Detalhamento Preliminar.md"> Detalhamento Preliminar </a> |
 | ETAPA 4 | <a href = "docs/Sprint 1.md"> Sprint 1 </a> |
 | ETAPA 5 | <a href = "docs/Sprint 2.md"> Sprint 2 </a> |
