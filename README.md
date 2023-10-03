@@ -28,7 +28,6 @@
 | ETAPA 4 | <a href = "docs/Sprint 1.md"> Sprint 1 </a> |
 | ETAPA 5 | <a href = "docs/Sprint 2.md"> Sprint 2 </a> |
 | ETAPA 6 | <a href = "docs/Apresentação do Projeto.md"> Apresentação do Projeto </a> |
-| ETAPA 7 | Preenchimento dos formulários referentes a prática extensionista no sistema APC <br> 
-            Atualização/Entrega do Porftólio |
+| ETAPA 7 | Preenchimento dos formulários referentes a prática extensionista no sistema APC <br> Atualização/Entrega do Porftólio |
 | ETAPA 8 | Atualização do Portfólio |
 
