@@ -5,7 +5,7 @@
 | Número da Persona | Número 1 |
 | :---------------: | -------- |
 | Nome | Maria do Carmo Ribeiro |
-| Foto | <img src = "C:\Users\jules\OneDrive\Documents\PUC\Mentoring II\CDM\docs\img\Professora Maria.png" width="200" height="200"/> |
+| Foto | <img src = "docs/img/Professora Maria.png" width="200" height="200"/> |
 | Idade | 45 anos |
 | Naturaliade | São Paulo - SP |
 | Ocupação | Professora de ensino fundamental em uma escola pública. |
@@ -17,7 +17,7 @@
 | Número da Persona | Número 2 |
 | :---------------: | -------- |
 | Nome | Carlos Henrique Junqueira |
-| Foto | <img src = "C:\Users\jules\OneDrive\Documents\PUC\Mentoring II\CDM\docs\img\Professor Carlos.png" width="200" height="200"/> |
+| Foto | <img src = "docs/img/Professor Carlos.png" width="200" height="200"/> |
 | Idade | 53 anos |
 | Naturaliade | Poços de Caldas - MG |
 | Ocupação | Professor de matemática do ensino fundamental em uma escola pública. |
